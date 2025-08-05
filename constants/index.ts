@@ -1,6 +1,6 @@
+import arrowBack from "@/assets/icons/arrow-back.png";
 import arrowDown from "@/assets/icons/arrow-down.png";
 import arrowRight from "@/assets/icons/arrow-right.png";
-import arrowBack from "@/assets/icons/arrowBack.png";
 import bag from "@/assets/icons/bag.png";
 import check from "@/assets/icons/check.png";
 import clock from "@/assets/icons/clock.png";
