@@ -78,8 +78,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/food_ordering.git
-cd food_ordering
+git clone https://github.com/rahulkpr2510/fast_food.git
+cd fast_food
 ```
 
 **Installation**
